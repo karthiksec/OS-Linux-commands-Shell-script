@@ -42,20 +42,22 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-python'''
+'''
 chanchal singhvi
 c.k. shukla
 s.n. dasgupta
-sumit chakrobarty'''
+sumit chakrobarty
+'''
 
 cat < file2
 ## OUTPUT
-python '''
+'''
 anil aggarwal
 barun sengupta
 c.k. shukla
 lalit chowdury
-s.n. dasgupta'''
+s.n. dasgupta
+'''
 
 # Comparing Files
 cmp file1 file2
