@@ -360,7 +360,9 @@ seq 10 | sed '2,9c hello'
 
 sed -n '2,4{s/^/$/;p}' file23
 ## OUTPUT
+
 ![image](https://github.com/Aakashraj04/OS-Linux-commands-Shell-script/assets/121117266/e6ad7a2e-3e7c-4611-86db-e921ffa88393)
+
 
 
 
